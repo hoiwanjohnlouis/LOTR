@@ -1,0 +1,115 @@
+{
+      "casts": {
+            "person": {
+                  "name": "Bilbo Baggins",
+                  "address": "Bag End, Shire",
+                  "character": "HOBBIT"
+            },
+            "person": {
+                  "name": "Frodo Baggins",
+                  "address": "Bag End, Shire",
+                  "character": "HOBBIT"
+            },
+            "person": {
+                  "name": "Meriadoc Brandybuck",
+                  "address": "Brandywine, Shire",
+                  "character": "HOBBIT"
+            },
+            "person": {
+                  "name": "Peregin Took",
+                  "address": "Brandywine, Shire",
+                  "character": "HOBBIT"
+            },
+            "person": {
+                  "name": "Legolas",
+                  "address": "Northern Mirkwood",
+                  "character": "ELF"
+            },
+            "person": {
+                  "name": "Elrond",
+                  "address": "Rivendell",
+                  "character": "ELF"
+            },
+            "person": {
+                  "name": "Galadriel",
+                  "address": "Lothlorien",
+                  "character": "ELF"
+            },
+            "person": {
+                  "name": "Gimli",
+                  "address": "Ered Luin",
+                  "character": "DWARF"
+            },
+            "person": {
+                  "name": "Balin",
+                  "address": "Moria",
+                  "character": "DWARF"
+            },
+            "person": {
+                  "name": "Gandalf",
+                  "address": "Valinor",
+                  "character": "WIZARD"
+            },
+            "person": {
+                  "name": "Saruman",
+                  "address": "Orthanc",
+                  "character": "WIZARD"
+            },
+            "person": {
+                  "name": "Sauron",
+                  "address": "Mordor",
+                  "character": "WIZARD"
+            },
+            "person": {
+                  "name": "Aragorn",
+                  "address": "Eriador",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "Boromir",
+                  "address": "Gondor",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "Faramir",
+                  "address": "Gondor",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "Eomer",
+                  "address": "Rohan",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "Eowyn",
+                  "address": "Rohan",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "King Theoden",
+                  "address": "Rohan",
+                  "character": "MAN"
+            },
+            "person": {
+                  "name": "Grishnak",
+                  "address": "Orthanc",
+                  "character": "ORC"
+            },
+            "person": {
+                  "name": "URUK-1",
+                  "address": "Orthanc",
+                  "character": "URUK_KAI"
+            },
+            "person": {
+                  "name": "GOBLIN-1",
+                  "address": "Orthanc",
+                  "character": "GOBLIN"
+            },
+            "person": {
+                  "name": "TROLL-1",
+                  "address": "Under a Bridge",
+                  "character": "TROLL"
+            }
+      }
+}
+
